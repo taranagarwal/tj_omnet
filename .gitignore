@@ -173,3 +173,7 @@ backups
 /doc/src/manual/tools/*.tex
 
 
+
+# Editor/indexer artifacts (Cursor Polyglot)
+.polyglot.META-INF
+.polyglot.*
